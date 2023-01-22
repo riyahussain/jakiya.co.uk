@@ -1,0 +1,35 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jakiya H'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'riyahussain'                    # github.com/YOUR_GITHUB_ID
+  linkedin = 'in/jakiya'
+  
+
+  # home page profile
+  avatar = 'jakiya.h97@outlook.com'         # gravatar email or image url
+  name = 'Jakiya Hussain'
+  bio = 'Data Analyst'
+  
+  # misc
+  monoDarkIcon = true                       # show monochrome dark mode icon
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv.pdf"
+    weight = 10
