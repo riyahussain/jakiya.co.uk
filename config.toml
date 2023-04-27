@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Jakiya H'
+title = 'Jakiya Hussain'
 theme = 'paper'
 
 [params]
@@ -8,15 +8,15 @@ theme = 'paper'
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
   github = 'riyahussain'                    # github.com/YOUR_GITHUB_ID
   linkedin = 'in/jakiya'
   
 
   # home page profile
   avatar = 'jakiya.h97@outlook.com'         # gravatar email or image url
-  name = 'Jakiya Hussain'
-  bio = 'Data Analyst'
+  name = 'Hey, I’m Jakiya 👋🏽'
+  bio = 'A Data Analyst from the UK. Check out some of my projects below!'
   
   # misc
   monoDarkIcon = true                       # show monochrome dark mode icon
