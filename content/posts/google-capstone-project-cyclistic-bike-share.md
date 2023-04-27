@@ -1,6 +1,6 @@
 ---
 title: "Google Capstone Project: Cyclistic Bike Share 🚴"
-date: "2023-02-28T15:21:54+05:30"
+date: 2023-02-28T21:10:00+07:00
 draft: false
 ---
 
