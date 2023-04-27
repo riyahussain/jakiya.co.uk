@@ -1,6 +1,6 @@
 ---
 title: "Google Capstone Project: Bellabeat 🏃‍♀️"
-date: 2023-03-17T19:04:44Z
+date: "2023-03-17T19:04:44Z"
 draft: false
 ---
 
