@@ -1,6 +1,6 @@
 ---
 title: "Google Capstone Project: Bellabeat 🏃‍♀️"
-date: 2023-03-18T21:10:00+07:00
+# date: 2023-03-18T21:10:00+07:00
 draft: false
 ---
 
